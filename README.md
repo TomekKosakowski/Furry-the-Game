@@ -1,5 +1,7 @@
 # FURRY-THE-GAME
 
+Demo: https://tomekkosakowski.github.io/Furry-the-Game/
+
 You become a Furry! This little, rounded, icy boy really need to gather birds!
 For each bird, he earn a point, gather as much points, as You can !
 
